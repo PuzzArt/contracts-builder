@@ -1,15 +1,16 @@
 # contracts-builder
 
-This Docker image contains the base necessary to run CI builds for the WarMosaic [contracts](https://github.com/warmosaic/contracts) repo. 
+This Docker image contains the base necessary to run CI builds for the PuzzArt [contracts](https://github.com/PuzzArt/contracts) repo. 
 
 This sets up:
 
 * Node.js
+* Bun
 * PNPM
 * Foundry
 * Solidity v0.8.21
 
-The latest image is always available at: https://ghcr.io/warmosaic/contracts-builder:latest
+The latest image is always available at: https://ghcr.io/puzzart/contracts-builder:latest
 
 ## Development
 
