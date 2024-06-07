@@ -7,7 +7,7 @@ on:
 
 env:
     REGISTRY: ghcr.io
-    IMAGE_NAME: puzzart/contracts-builder
+    IMAGE_NAME: pixel8xyz/contracts-builder
 
 jobs:
     container:
